@@ -8,3 +8,15 @@
 .cabecalho h3{
     color: rgb(206, 206, 8);
 }
+
+p .alinha{
+    text-align: right;
+}
+.img-agro{
+     max-height: 500px;
+}
+    
+
+.br-3{
+    border-radius: 15px;
+}

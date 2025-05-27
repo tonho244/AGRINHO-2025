@@ -8,3 +8,26 @@
 .cabecalho h3{
     color: rgb(206, 206, 8);
 }
+.cabecalho{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+
+.cabecalho h3{
+    color: rgb(206, 206, 8);
+}
+
+p .alinha{
+    text-align: right;
+}
+.img-agro{
+    width: 300px;
+
+    
+}
+
+.br-3{
+    border-radius: 15px;
+}
