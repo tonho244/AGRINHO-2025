@@ -23,11 +23,17 @@ p .alinha{
     text-align: right;
 }
 .img-agro{
-    width: 300px;
+    width: 500px;
 
     
 }
 
 .br-3{
     border-radius: 15px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
 }
