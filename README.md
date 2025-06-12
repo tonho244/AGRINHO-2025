@@ -11,19 +11,19 @@ Criar conteúdos interativos e visuais para ampliar o conhecimento de estudantes
 
 
 
-## ✨ Conteúdos Destacados
+## Conteúdos Destacados
 
-### ⚡ Energia Rural
+### Energia Rural
 - Fontes alternativas (solar, eólica, biogás)
 - Uso na produção agrícola e qualidade de vida
 - Redução do êxodo rural com eletrificação
 
-### 💧 Acessibilidade à Água
+### Acessibilidade à Água
 - Poços artesianos e cisternas
 - Água para consumo, higiene e produção
 - Inclusão de pessoas com deficiência
 
-### 🌿 Produção Sustentável
+### Produção Sustentável
 - Uso da tecnologia no campo
 - Jovens e mulheres na produção agrícola
 - Rotação de culturas, agroflorestas e mais
